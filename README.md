@@ -1,5 +1,6 @@
 ## Hi there, I'm Victoria!
 
+## About me
 Junior Data Scientist with a solid foundation in machine learning and data analysis. 
 
 Graduate of the DAN.IT Data Science program with hands-on experience gained through academic projects and Kaggle competitions. 
