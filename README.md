@@ -1,4 +1,4 @@
-## Hi there, I'm Victoria!
+## Hi there, I'm Viktoria!
 
 ## About me
 Junior Data Scientist with a solid foundation in machine learning and data analysis. 
