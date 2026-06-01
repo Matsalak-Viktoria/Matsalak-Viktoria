@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Junior Data Scientist with a solid foundation in machine learning and data analysis. 
+
+Graduate of the DAN.IT Data Science program with hands-on experience gained through academic projects and Kaggle competitions. 
+
+Skilled in data preprocessing, feature engineering, and model evaluation using Python and common data science libraries. 
+
+Analytical thinker with a research mindset, focused on understanding data and improving model performance.
+
 <!--
 **Matsalak-Viktoria/Matsalak-Viktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
