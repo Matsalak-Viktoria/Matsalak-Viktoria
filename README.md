@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Victoria!
 
 Junior Data Scientist with a solid foundation in machine learning and data analysis. 
 
