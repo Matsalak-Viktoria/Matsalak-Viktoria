@@ -11,10 +11,18 @@ Analytical thinker with a research mindset, focused on understanding data and im
 
 ## Skills
 - Python
-- Libraries & Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyCharm, VS Code, Jupyter Notebook, Google Colab
-- Machine Learning: Data Preprocessing, Feature Engineering, Regression, Classification, Clustering, Gradient Boosting, Model Evaluation
+- **Libraries & Tools**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyCharm, VS Code, Jupyter Notebook, Google Colab
+- **Machine Learning**: Data Preprocessing, Feature Engineering, Regression, Classification, Clustering, Gradient Boosting, Model Evaluation
 - Mathematics and statistics
-- Data Analysis and Visualization: Exploratory Data Analysis
+- **Data Analysis and Visualization**: Exploratory Data Analysis
+
+## Projects
+- **Project 1**: “Kaggle - Product rating and recommendation prediction” (DAN.IT education)
+- **Project 2**: “Clustering of travel agency booking data” (DAN.IT education)
+- **Project 3**: “Kaggle - Default probability prediction” (DAN.IT education)
+- **Project 4**: “Credit risk classification” (DAN.IT education)
+- **Project 5**: “Kaggle - House price prediction” (DAN.IT education)
+- **Project 6**: “Passenger survival, tip size, diamond price prediction”(DAN.IT education)
 <!--
 **Matsalak-Viktoria/Matsalak-Viktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
