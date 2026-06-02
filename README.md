@@ -9,8 +9,14 @@ Skilled in data preprocessing, feature engineering, and model evaluation using P
 
 Analytical thinker with a research mindset, focused on understanding data and improving model performance.
 
+## Skills
+- Python
+- Libraries & Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyCharm, VS Code, Jupyter Notebook, Google Colab
+- Machine Learning: Data Preprocessing, Feature Engineering, Regression, Classification, Clustering, Gradient Boosting, Model Evaluation
+- Mathematics and statistics
+- Data Analysis and Visualization: Exploratory Data Analysis
 <!--
-**Matsalak-Viktoria/Matsalak-Viktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matsalak-Viktoria/Matsalak-Viktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
