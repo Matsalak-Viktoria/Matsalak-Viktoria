@@ -1,7 +1,7 @@
 ## Hi there, I'm Viktoria!
 
 <a href="https://t.me/MatsalakViktoria"><img src="Telegram-icon.png" width="50"></a>
-<a href="mailto:viktoriyamacalak@gmail.com"><img src="Gmail-icon.png" width="51"></a>
+<a href="mailto:viktoriyamacalak@gmail.com"><img src="Gmail-icon2.png" width="50"></a>
 <a href="http://www.linkedin.com/in/viktoriia-matsalak-06b777296"><img src="Linkedin-icon.png" width="50"></a>
 
 ## About me
