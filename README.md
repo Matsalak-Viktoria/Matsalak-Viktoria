@@ -21,12 +21,12 @@ Analytical thinker with a research mindset, focused on understanding data and im
 - **Data Analysis and Visualization**: Exploratory Data Analysis
 
 ## Projects
-- **Project 1**: “Kaggle - Product rating and recommendation prediction” (DAN.IT education)
-- **Project 2**: “Clustering of travel agency booking data” (DAN.IT education)
-- **Project 3**: “Kaggle - Default probability prediction” (DAN.IT education)
-- **Project 4**: “Credit risk classification” (DAN.IT education)
-- **Project 5**: “Kaggle - House price prediction” (DAN.IT education)
-- **Project 6**: “Passenger survival, tip size, diamond price prediction”(DAN.IT education)
+- **Project 1**: [“Kaggle - Product rating and recommendation prediction”](URL-адрес) (DAN.IT education)
+- **Project 2**: [“Clustering of travel agency booking data”](URL-адрес) (DAN.IT education)
+- **Project 3**: [“Kaggle - Default probability prediction”](URL-адрес) (DAN.IT education)
+- **Project 4**: [“Credit risk classification”](URL-адрес) (DAN.IT education)
+- **Project 5**: [“Kaggle - House price prediction”](URL-адрес) (DAN.IT education)
+- **Project 6**: [“Passenger survival, tip size, diamond price prediction”](URL-адрес)(DAN.IT education)
 <!--
 **Matsalak-Viktoria/Matsalak-Viktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
