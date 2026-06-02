@@ -1,8 +1,8 @@
 ## Hi there, I'm Viktoria!
 
-<a href="https://t.me/MatsalakViktoria"><img src="Telegram-Icon-2.png" width="50"></a>
-<a href="mailto:viktoriyamacalak@gmail.com"><img src="Email-Icon.png" width="50"></a>
-<a href="http://www.linkedin.com/in/viktoriia-matsalak-06b777296"><img src="Linkedin-Icon-2.png" width="50"></a>
+<a href="https://t.me/MatsalakViktoria"><img src="Telegram-icon.png" width="50"></a>
+<a href="mailto:viktoriyamacalak@gmail.com"><img src="Gmail-icon2.png" width="50"></a>
+<a href="http://www.linkedin.com/in/viktoriia-matsalak-06b777296"><img src="Linkedin-icon.png" width="50"></a>
 
 ## About me
 Junior Data Scientist with a solid foundation in machine learning and data analysis. 
