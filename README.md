@@ -23,7 +23,7 @@ Analytical thinker with a research mindset, focused on understanding data and im
 ## Projects
 - **Project 1**: [Kaggle - Product Rating and Recommendation Prediction](https://github.com/Matsalak-Viktoria/Product-Recommendation-Prediction) (DAN.IT education)
 - **Project 2**: [Clustering of Travel Agency Booking Data](https://github.com/Matsalak-Viktoria/Travel-Booking-Clustering) (DAN.IT education)
-- **Project 3**: [Kaggle - Loan Default Prediction](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction) (DAN.IT education)
+- **Project 3**: [Kaggle - Loan Default Prediction](https://github.com/Matsalak-Viktoria/Loan-Default-Prediction) (DAN.IT education)
 - **Project 4**: [Credit Risk Classification](https://github.com/Matsalak-Viktoria/Credit-Risk-Classification) (DAN.IT education)
 - **Project 5**: [Kaggle - House Price Prediction](https://github.com/Matsalak-Viktoria/House-Price-Prediction) (DAN.IT education)
 - **Project 6**: [Passenger Survival, Tip Amount, Diamond Price Prediction](https://github.com/Matsalak-Viktoria/Titanic-Tips-Diamonds) (DAN.IT education)
